@@ -1,0 +1,2 @@
+﻿  Source.cpp
+c:\users\grade\documents\visual studio 2015\projects\week10\week10\source.cpp(8): error C4700: uninitialized local variable 'temp' used
