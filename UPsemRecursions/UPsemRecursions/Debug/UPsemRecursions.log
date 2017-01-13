@@ -1,0 +1,4 @@
+﻿  UPsemRecursions.cpp
+c:\users\grade\documents\visual studio 2015\projects\upsemrecursions\upsemrecursions\upsemrecursions.cpp(97): warning C4715: 'findPath': not all control paths return a value
+  UPsemRecursions.vcxproj -> c:\users\grade\documents\visual studio 2015\Projects\UPsemRecursions\Debug\UPsemRecursions.exe
+  UPsemRecursions.vcxproj -> c:\users\grade\documents\visual studio 2015\Projects\UPsemRecursions\Debug\UPsemRecursions.pdb (Full PDB)
